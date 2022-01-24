@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nnyong0511.guthub.io/act.2-styled-components/static/js/main.c335e5f8.js",
-    "index.html": "/nnyong0511.guthub.io/act.2-styled-components/index.html",
-    "main.c335e5f8.js.map": "/nnyong0511.guthub.io/act.2-styled-components/static/js/main.c335e5f8.js.map"
+    "main.js": "/act.2-styled-components/static/js/main.631c1941.js",
+    "index.html": "/act.2-styled-components/index.html",
+    "main.631c1941.js.map": "/act.2-styled-components/static/js/main.631c1941.js.map"
   },
   "entrypoints": [
-    "static/js/main.c335e5f8.js"
+    "static/js/main.631c1941.js"
   ]
 }
